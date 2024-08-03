@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636520762251",
+    "project_id": "todoapplication-41248",
+    "storage_bucket": "todoapplication-41248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636520762251:android:0a8c8e090ed52157a83d8e",
+        "android_client_info": {
+          "package_name": "com.dolgozitbudet.trainingtodomvifirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl7sm_LAByhFF7iLsQ8rbK4DvqZkegdnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
